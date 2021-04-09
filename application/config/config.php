@@ -26,7 +26,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 //$config['base_url'] = 'http://kateringku.azurewebsites.net';
 //$config['base_url'] = 'http://10.10.24.65/kateringku';
 //$config['base_url'] = 'http://test.angkasapurasolusi.co.id';
-$config['base_url'] = 'http://localhost/menu';
+$config['base_url'] = 'http://localhost/Menu';
 
 /*
 |--------------------------------------------------------------------------
